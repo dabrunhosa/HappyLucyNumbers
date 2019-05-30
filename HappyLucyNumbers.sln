@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProject", "MainProject\MainProject.csproj", "{9D74C66E-C288-413F-B9F5-FAD5C967882F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainProject", "MainProject\MainProject.csproj", "{9D74C66E-C288-413F-B9F5-FAD5C967882F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyAnalyser", "HappyAnalyser\HappyAnalyser.csproj", "{9066F978-AA6D-431A-93F7-9542C5D2E099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyAnalyser", "HappyAnalyser\HappyAnalyser.csproj", "{9066F978-AA6D-431A-93F7-9542C5D2E099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckAnalyser", "LuckAnalyser\LuckAnalyser.csproj", "{D33EFA99-F7B9-4076-BE2C-1F20DA9FDEA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9066F978-AA6D-431A-93F7-9542C5D2E099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9066F978-AA6D-431A-93F7-9542C5D2E099}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9066F978-AA6D-431A-93F7-9542C5D2E099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33EFA99-F7B9-4076-BE2C-1F20DA9FDEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33EFA99-F7B9-4076-BE2C-1F20DA9FDEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33EFA99-F7B9-4076-BE2C-1F20DA9FDEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33EFA99-F7B9-4076-BE2C-1F20DA9FDEA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
